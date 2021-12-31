@@ -1,0 +1,68 @@
+.joins{
+    background-image: linear-gradient(120deg,rgb(20, 117, 109),rgb(238, 70, 70));
+    padding: 50px;
+    border-radius: 50px;
+    margin-top: 60px !important;
+   margin-right: 200px;
+   margin-left: 200px;
+
+    
+}
+.joins h1{
+    text-align: center;
+}
+.jos{
+    padding: 10px;
+    margin: 20px;
+    margin-left: 80px;
+    margin-right: 90px;
+ 
+   
+   
+}
+.jos input{
+    height: 50px;
+    background-color: transparent;
+    width: 100%;
+}
+input::placeholder{
+    color: rgb(214, 212, 212) !important;
+    font-size: 20px;
+}
+Button{
+    font-size: 19px !important;
+    width: 100%;
+    margin: 0 !important;
+    
+}
+@media only screen and (max-width:1200px)
+{
+
+    Button{
+        margin: 40px;
+        font-size: 15px !important;
+    }
+    .joins{
+        background-image: linear-gradient(120deg,rgb(20, 117, 109),rgb(238, 70, 70));
+        padding: 50px;
+        border-radius: 50px;
+        margin-top: 60px !important;
+       margin-right: 0px;
+       margin-left: 0px;
+        
+    }
+    .jos{
+        padding: 10px;
+        margin: 20px;
+        margin-left: 0px;
+        margin-right: 0px;
+     
+       
+       
+    }
+    .jos input{
+        height: 50px;
+        background-color: transparent;
+        width: 100%;
+    }
+}

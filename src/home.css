@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Ceviche+One&family=Cinzel&family=Inter:wght@500&family=Kings&family=Lobster+Two&family=Luckiest+Guy&family=Merienda&family=Monda:wght@700&family=Praise&display=swap');
+
+*{
+    color: white;
+}
+
+.home{
+   
+
+  
+   
+    text-align: left;
+    margin-top: 200px;
+ 
+    
+}
+.home h1{
+    font-size: 120px !important;
+    font-family: 'Inter', sans-serif;
+}
+.home h3{
+    font-size: 27px;
+}
+Button{
+    background-color: white !important;
+    color: black !important;
+    font-size: 23px !important;
+   font-family: Arial, Helvetica, sans-serif !important;
+    padding: 10px !important;
+    border-radius: 20px !important;
+    font-weight: bold !important;
+    width: 50% !important;
+
+}
+.phone{
+    height:70% !important;
+    margin-top: 110px;
+}
+.logo{
+    margin-top: 30px;
+    text-align: left;
+}
+
+@media only screen and (max-width:600px)
+{
+    .phone{
+        height:50% !important;
+        margin-top: 100px;
+        margin: 0;
+    }
+}
+@media only screen and (max-width:1200px)
+{
+    .phone{
+        height:50% !important;
+        margin-top: 100px;
+        
+    }
+}

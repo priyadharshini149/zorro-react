@@ -1,0 +1,25 @@
+h1{
+    text-align: left;
+    font-size: 50px !important;
+    
+}
+.logos{
+    height:35%;
+}
+.invest_img{
+    height: 55%;
+    margin: 0;
+}
+.name{
+    font-size: 16px;
+    color: white;
+    font-weight: bold;
+    
+}
+.destination{
+    color: rgb(190, 189, 189) !important;
+    font-size: 13px;
+    font-weight: bold;
+    
+    
+}
